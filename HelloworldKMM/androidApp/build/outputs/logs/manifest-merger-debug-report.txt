@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+MERGED from [:shared] /Users/meet/StudioProjects/HelloworldKMM/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/cfca4b4d4af377b0342cf9deade34177/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/meet/.gradle/caches/transforms-2/files-2.1/a2049b9fce28620d80c7c7ae76e7dc50/constraintlayout-2.0.2/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5c97f8456c371f89b936f281985f77a5/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/3cd01f67977145ae31d8c465c2263208/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1ce985acf16f460a6bdea87415312ae0/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/261b2cf36283921961dfacdb214b8f8e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/159b7203fbad7b0cd6f954c790ccd590/appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e618d37fbf89c5bd0130655ddd90a573/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/85399a6810f7dd7b9b095699671e5f0f/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/439980af9ff8bab0391be2330c6cd6f9/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e1bcfa856800bcd1b491ad3558f27a7b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/99553c0c5ccc4ff9379918c823a949dd/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1fdf7cdf17f1a31dad0d25fa112411bc/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/988218bb2a1bb06103f120359249c86d/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/f8e4701b5fa85b1efbde5301bf0352e7/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5238ea6edd4e97f03f9ec71a25862729/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/be1e008eb9abaedc7ad2d8120a1f7ab2/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/69c8d020c5afb617b3c42dd676483521/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5052c5189f8366e59a4ad9524ef65337/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/bee6a8f758cbdb12e6720fd3c57d96de/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/2868b83bfa3b3bd73468d847d89ca557/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/161a4f17d008c356a5f888f6a7530d82/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/064d9ae35416efbb3e6ab44fe73bf7e0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/0326ef12996742aa31f7fb34b0043f86/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/d4f7af0af8dc8ffb45fec58824b4ab22/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/ae7b5cbde8bda121f33f4aa69980c51c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/eca5734610cea9d23439ee17bbfcb698/annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+	package
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:70-127
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:1-16:12
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:5:5-15:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/cfca4b4d4af377b0342cf9deade34177/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/cfca4b4d4af377b0342cf9deade34177/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/meet/.gradle/caches/transforms-2/files-2.1/a2049b9fce28620d80c7c7ae76e7dc50/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/meet/.gradle/caches/transforms-2/files-2.1/a2049b9fce28620d80c7c7ae76e7dc50/constraintlayout-2.0.2/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5052c5189f8366e59a4ad9524ef65337/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5052c5189f8366e59a4ad9524ef65337/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:7:13-39
+	android:allowBackup
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:6:13-40
+	android:theme
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:8:13-44
+activity#com.example.coroutines.helloworldkmm.androidApp.MainActivity
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:9:9-14:20
+	android:name
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:9:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:10:13-13:29
+action#android.intent.action.MAIN
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:11:17-68
+	android:name
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:11:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:12:17-76
+	android:name
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml:12:27-74
+uses-sdk
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/meet/StudioProjects/HelloworldKMM/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/meet/StudioProjects/HelloworldKMM/shared/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/cfca4b4d4af377b0342cf9deade34177/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/cfca4b4d4af377b0342cf9deade34177/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/meet/.gradle/caches/transforms-2/files-2.1/a2049b9fce28620d80c7c7ae76e7dc50/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.2] /Users/meet/.gradle/caches/transforms-2/files-2.1/a2049b9fce28620d80c7c7ae76e7dc50/constraintlayout-2.0.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5c97f8456c371f89b936f281985f77a5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5c97f8456c371f89b936f281985f77a5/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/3cd01f67977145ae31d8c465c2263208/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/3cd01f67977145ae31d8c465c2263208/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1ce985acf16f460a6bdea87415312ae0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1ce985acf16f460a6bdea87415312ae0/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/261b2cf36283921961dfacdb214b8f8e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/261b2cf36283921961dfacdb214b8f8e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/159b7203fbad7b0cd6f954c790ccd590/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/159b7203fbad7b0cd6f954c790ccd590/appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e618d37fbf89c5bd0130655ddd90a573/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e618d37fbf89c5bd0130655ddd90a573/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/85399a6810f7dd7b9b095699671e5f0f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/85399a6810f7dd7b9b095699671e5f0f/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/439980af9ff8bab0391be2330c6cd6f9/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/439980af9ff8bab0391be2330c6cd6f9/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e1bcfa856800bcd1b491ad3558f27a7b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/e1bcfa856800bcd1b491ad3558f27a7b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/99553c0c5ccc4ff9379918c823a949dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/99553c0c5ccc4ff9379918c823a949dd/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1fdf7cdf17f1a31dad0d25fa112411bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/1fdf7cdf17f1a31dad0d25fa112411bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/988218bb2a1bb06103f120359249c86d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/988218bb2a1bb06103f120359249c86d/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/f8e4701b5fa85b1efbde5301bf0352e7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/f8e4701b5fa85b1efbde5301bf0352e7/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5238ea6edd4e97f03f9ec71a25862729/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5238ea6edd4e97f03f9ec71a25862729/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/be1e008eb9abaedc7ad2d8120a1f7ab2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/be1e008eb9abaedc7ad2d8120a1f7ab2/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/69c8d020c5afb617b3c42dd676483521/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/69c8d020c5afb617b3c42dd676483521/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /Users/meet/.gradle/caches/transforms-2/files-2.1/d1d2eba3dd701f1e2e4f1bba4d646010/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5052c5189f8366e59a4ad9524ef65337/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/5052c5189f8366e59a4ad9524ef65337/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/bee6a8f758cbdb12e6720fd3c57d96de/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/bee6a8f758cbdb12e6720fd3c57d96de/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/2868b83bfa3b3bd73468d847d89ca557/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/2868b83bfa3b3bd73468d847d89ca557/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/161a4f17d008c356a5f888f6a7530d82/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/161a4f17d008c356a5f888f6a7530d82/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/064d9ae35416efbb3e6ab44fe73bf7e0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/064d9ae35416efbb3e6ab44fe73bf7e0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/0326ef12996742aa31f7fb34b0043f86/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/0326ef12996742aa31f7fb34b0043f86/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/d4f7af0af8dc8ffb45fec58824b4ab22/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/d4f7af0af8dc8ffb45fec58824b4ab22/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/ae7b5cbde8bda121f33f4aa69980c51c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/ae7b5cbde8bda121f33f4aa69980c51c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/eca5734610cea9d23439ee17bbfcb698/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/meet/.gradle/caches/transforms-2/files-2.1/eca5734610cea9d23439ee17bbfcb698/annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/meet/StudioProjects/HelloworldKMM/androidApp/src/main/AndroidManifest.xml

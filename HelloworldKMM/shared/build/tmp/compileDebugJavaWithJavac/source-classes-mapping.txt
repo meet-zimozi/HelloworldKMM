@@ -1,0 +1,2 @@
+com/example/coroutines/helloworldkmm/shared/BuildConfig.java
+ com.example.coroutines.helloworldkmm.shared.BuildConfig
